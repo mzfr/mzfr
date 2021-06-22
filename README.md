@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**mzfr/mzfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![mzfr's github stats](https://github-readme-stats.vercel.app/api?username=mzfr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=calm&custom_title=git%20status)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://github.com/mzfr"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+    <a href="https://www.linkedin.com/in/mzfr/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+    <a href="https://twitter.com/0xmzfr"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+    <!-- <a href="https://blog.mzfr.me/"><img alt="blog" src="https://img.icons8.com/doodle/96/000000/blogger--v1.png"/></a> -->
+</p>
+
+
+[![visitors](https://komarev.com/ghpvc/?username=mzfr&logo=GitHub&label=profile%20views&color=336699&logoColor=white&style=flat-square)](https://github.com/mzfr)
