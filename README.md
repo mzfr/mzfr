@@ -1,7 +1,7 @@
-### Hi there 👋
-
-[![mzfr's github stats](https://github-readme-stats.vercel.app/api?username=mzfr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=calm&custom_title=git%20status)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- ### Hi there 👋
+ -->
+<!-- [![mzfr's github stats](https://github-readme-stats.vercel.app/api?username=mzfr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=calm&custom_title=git%20status)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Gaining access to protected components](https://blog.mzfr.me/posts/2021-06-24-unexported-component/)
