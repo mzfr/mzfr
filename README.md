@@ -4,10 +4,10 @@
  -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Cardano components](https://blog.mzfr.me/posts/2021-11-05-intro-to-cardano-tx/)
 - [Gaining access to protected components](https://blog.mzfr.me/posts/2021-06-24-unexported-component/)
 - [My OSCP experience](https://blog.mzfr.me/posts/2021-04-24-oscp-experience/)
 - [Using Github Action for recon](https://blog.mzfr.me/posts/2021-01-23-github-action-for-recon/)
-- [Year In Review-2020](https://blog.mzfr.me/posts/2020-12-31-year-in-review-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 <table width="100%"> 
