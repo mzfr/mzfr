@@ -21,7 +21,6 @@
 
 <br><p align="center">Connect with me: <br><br>
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/mzfr)
-  [![Twitter](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=twitter&logoColor=white&style=flat-square&url=https%3A%2F%2Ftwitter.com%2F0xmzfr)](https://twitter.com/0xmzfr)
   [![visitors](https://komarev.com/ghpvc/?username=mzfr&logo=GitHub&label=profile%20views&color=336699&logoColor=white&style=flat-square)](https://github.com/mzfr)
 </p>
   </td>
