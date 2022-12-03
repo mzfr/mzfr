@@ -4,10 +4,10 @@
  -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Giving self-hosting a go](https://blog.mzfr.me/posts/2022-11-21-selfhosting/)
 - [Genie in a bottle](https://blog.mzfr.me/posts/2022-07-24-arch-genie/)
 - [Year In Review-2021](https://blog.mzfr.me/posts/2021-12-31-year-in-review-2021/)
 - [Introduction to Cardano components](https://blog.mzfr.me/posts/2021-11-05-intro-to-cardano-tx/)
-- [Gaining access to protected components](https://blog.mzfr.me/posts/2021-06-24-unexported-component/)
 <!-- BLOG-POST-LIST:END -->
 
 <table width="100%"> 
