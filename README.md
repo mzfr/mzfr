@@ -4,10 +4,10 @@
  -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Charts in a PDF, Please](https://blog.mzfr.me/posts/2023-02-15-to-pdf/)
 - [Year In Review-2022](https://blog.mzfr.me/posts/2022-12-31-year-in-review/)
 - [Taking notes with VS Code and obsidian](https://blog.mzfr.me/posts/2022-12-05-ownnotes/)
 - [Giving self-hosting a go](https://blog.mzfr.me/posts/2022-11-21-selfhosting/)
-- [Genie in a bottle](https://blog.mzfr.me/posts/2022-07-24-arch-genie/)
 <!-- BLOG-POST-LIST:END -->
 
 <table width="100%"> 
