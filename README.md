@@ -1,13 +1,13 @@
 <h1 align="center"> Hello, I'm Mehtab!</h1>
 
-<p align="center">From crafting code to securing its secrets, I'm a developer with a hacker mindset</p>
+<p align="center"><i>From crafting code to securing its secrets, I'm a developer with a hacker mindset</i></p>
 
 
 <p align="center">
   <samp>
-    <a href="https://blog.mzfr.me/">blog</a> .
-    <a href="https://www.linkedin.com/in/mzfr">linkedin</a> .
-   <a href="https://www.twitter.com/0xmzfr">twitter</a>
+    <a href="https://blog.mzfr.me/">    <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/></a>
+    <a href="https://www.linkedin.com/in/mzfr"><img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/></a>
+   <a href="https://www.twitter.com/0xmzfr">    <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/></a>
   </samp>
 </p>
 
