@@ -16,7 +16,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Module Review - Semester 1 AY 23/24](https://blog.mzfr.me/posts/2023-12-08-module-review/)
+- [Starting the NUS Chapter](https://blog.mzfr.me/posts/2023-12-07-nus/)
 - [Charts in a PDF, Please](https://blog.mzfr.me/posts/2023-02-15-to-pdf/)
 - [Year In Review-2022](https://blog.mzfr.me/posts/2022-12-31-year-in-review/)
-- [Taking notes with VS Code and obsidian](https://blog.mzfr.me/posts/2022-12-05-ownnotes/)
 <!-- BLOG-POST-LIST:END -->
