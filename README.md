@@ -15,8 +15,8 @@
 ###  My Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Year In Review-2024](https://blog.mzfr.me/posts/2024-12-31-year-in-review-2024/)
 - [Couch to Marathon](https://blog.mzfr.me/posts/2024-12-05-first-marathon/)
 - [Year In Review-2023](https://blog.mzfr.me/posts/2023-12-31-year-in-review/)
 - [Module Review - Semester 1 AY 23/24](https://blog.mzfr.me/posts/2023-12-08-module-review/)
-- [Starting the NUS Chapter](https://blog.mzfr.me/posts/2023-12-07-nus/)
 <!-- BLOG-POST-LIST:END -->
