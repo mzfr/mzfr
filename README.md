@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Mehtab!</h1>
+<!--<h1 align="center"> Hello, I'm Mehtab!</h1>
 
 <p align="center"><i>From crafting code to securing its secrets, I'm a developer with a hacker mindset</i></p>
 
@@ -12,7 +12,7 @@
 
 
 ###  My Latest blog posts
-
+-->
 <!-- BLOG-POST-LIST:START -->
 - [Regex Bypass - Escaping WebView Domain Filters](https://blog.mzfr.me/posts/2025-03-17-regex-bypass/)
 - [Year In Review-2024](https://blog.mzfr.me/posts/2024-12-31-year-in-review-2024/)
