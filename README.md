@@ -14,8 +14,8 @@
 ###  My Latest blog posts
 -->
 <!-- BLOG-POST-LIST:START -->
+- [Year In Review - 2025](https://blog.mzfr.me/posts/2025-12-31-year-in-review-2025/)
 - [Regex Bypass - Escaping WebView Domain Filters](https://blog.mzfr.me/posts/2025-03-17-regex-bypass/)
 - [Year In Review-2024](https://blog.mzfr.me/posts/2024-12-31-year-in-review-2024/)
 - [Couch to Marathon](https://blog.mzfr.me/posts/2024-12-05-first-marathon/)
-- [Year In Review-2023](https://blog.mzfr.me/posts/2023-12-31-year-in-review/)
 <!-- BLOG-POST-LIST:END -->
