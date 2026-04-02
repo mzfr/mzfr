@@ -14,8 +14,8 @@
 ###  My Latest blog posts
 -->
 <!-- BLOG-POST-LIST:START -->
+- [VCR and Crystal balls in claude&#39;s Leak](https://blog.mzfr.me/posts/2026-04-01-cc-vcr-cpu/)
 - [Year In Review - 2025](https://blog.mzfr.me/posts/2025-12-31-year-in-review-2025/)
 - [Regex Bypass - Escaping WebView Domain Filters](https://blog.mzfr.me/posts/2025-03-17-regex-bypass/)
 - [Year In Review-2024](https://blog.mzfr.me/posts/2024-12-31-year-in-review-2024/)
-- [Couch to Marathon](https://blog.mzfr.me/posts/2024-12-05-first-marathon/)
 <!-- BLOG-POST-LIST:END -->
